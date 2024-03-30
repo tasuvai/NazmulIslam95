@@ -2,7 +2,7 @@
 [![MasterHead](https://i.ibb.co/T1r9mRK/Github-Readme-file-cover.jpg)](https://github.com/NazmulIslam95/NazmulIslam95)
 <!--![Header](https://i.ibb.co/T1r9mRK/Github-Readme-file-cover.jpg "Header")-->
 
-# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
+# Hello, Programmers! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
 
 My name is Nazmul Islam and I'm a 🚀 Frontend Developer | ⚛️ React.js Developer. I'm from Bangladesh, living in Dhaka.
 
